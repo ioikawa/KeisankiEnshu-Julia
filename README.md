@@ -34,8 +34,8 @@ Ubuntu 20.04にJulia 1.6.7 がインストール済み．
 ## Julia言語の起動
 
 2023年11月2日時点では，Julia 1.6.7 のフルパスを入力して起動する．
-（本来は単に `$ julia`　と実行すると v1.9.3　のJuliaが起動する．
-v 1.9.3 は Jupyter Notebook上で正常に動作しないので注意．）
+（単に `$ julia`　と実行すると v1.9.3　のJuliaが起動する．
+v1.9.3 では Jupyter Notebook上で正常に動作しないので注意．）
 
 ```
 $ /usr/local/bin/julia
