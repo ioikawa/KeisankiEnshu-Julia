@@ -1,7 +1,3 @@
-# 計算機演習 Julia 講義資料
-
-- https://ioikawa.github.io/KeisankiEnshu-Julia/index.html
-
 # 全学計算機システム
 Ubuntu 20.04にJulia 1.6.7 がインストール済み．
 ここではサテライト室のPC端末を想定して，JuliaとJuypter Notebookの導入方法を説明する．
